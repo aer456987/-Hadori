@@ -1,3 +1,4 @@
+# 身高體重計算程式
 height = int(input("輸入身高(cm): "))
 weight = int(input("輸入體重(kg): "))
 height = height/100    # 身高(公分)/100=身高(公尺)
