@@ -1,1 +1,1 @@
-"# -Hadori" 
+# Just only Text"
